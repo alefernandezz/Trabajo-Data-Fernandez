@@ -1,4 +1,4 @@
-# Ventas Analytics — mini plataforma de análisis de ventas
+# Ventas Analytics — mini plataforma de análisis de ventas - Trabajo Data Fernandez
 
 Proyecto personal para practicar modelado de datos, SQL y un flujo de
 datos end-to-end: desde un CSV crudo hasta un reporte que cualquier
